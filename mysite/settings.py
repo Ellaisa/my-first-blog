@@ -25,7 +25,7 @@ SECRET_KEY = 'iq82xkn#s_0he)u6&l5n((!o8gxt3r%i&)q-_3+@2d*%80vbk$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ellaisa.pythonanywhere.com"]
 
 
 # Application definition
